@@ -30,7 +30,7 @@ All notable changes to this project will be documented in this file.
 ### CHANGED
 
 - Train test splits are now done by time instead of train_test_split()
-- Hyperparameter tuning is now tuned by Optuna
+- Hyperparameter tuning changed from RandomSearchCV to Optuna
 - Moved final testing to be below SHAP calculations
 
 ## Jan-9-2024
