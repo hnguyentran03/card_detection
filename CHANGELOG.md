@@ -2,12 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## Jan-11-2024
+
+## ADDED
+
+- Feature engineering of gender and age after analysis of SHAP values
+
+## CHANGED
+
+- Fixed plots to be smaller and more viewable
+- Changed the pie plot comparing the imbalance in train, test and validation sets to just be percentages
+
 ## Jan-10-2024
 
 ### ADDED
 
 - AdaBoost
-- Beeswarm plot to analyze SHAP values and remove unecessary features
+- Beeswarm plot to analyze SHAP values
 - Summary
 
 ### REMOVED
