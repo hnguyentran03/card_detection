@@ -1,6 +1,6 @@
 Credit Card Transaction Fraud Detection
 
-The data set is taken from: https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
+The data set "fraudTrain.csv" is taken from: https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
 
 The purpose of the project is to explore different machine learning models and ensure proper handling of imbalanced data to detect fraudulent transactions.
 
